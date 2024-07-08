@@ -1,0 +1,3 @@
+git add .github/workflows/renew-ssl.yml
+git commit -m "Add GitHub Actions workflow for SSL certificate renewal"
+git push origin main
